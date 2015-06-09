@@ -1,5 +1,7 @@
+/charisma/local_settings.py
 /.settings
 .project
 .pydevproject
 *.pyc
 *.log
+*.out
